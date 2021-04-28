@@ -12,6 +12,7 @@ while(x==0){
 		}
 		else printf("%d ",i);
 	}
+	return 0;
 }
 
 }
